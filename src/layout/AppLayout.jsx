@@ -12,7 +12,7 @@ const AppLayout = () => {
     <div>
       <Navbar expand="lg" className="px-5 bg-black" data-bs-theme="dark">
         <Container fluid>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="#">
             <img
               src="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Rewrite_Netflix_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1695284106"
               width="120"
