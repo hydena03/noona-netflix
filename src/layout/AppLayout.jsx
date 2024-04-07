@@ -13,12 +13,10 @@ const AppLayout = () => {
       <Navbar expand="lg" className="px-5 bg-black" data-bs-theme="dark">
         <Container fluid>
           <Navbar.Brand href="#">
-            <img
-              src="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Rewrite_Netflix_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1695284106"
+          <img src="https://i.ibb.co/Xb0PgHy/1.jpg" alt="1" border="0"
               width="120"
-              height="70"
+              height="50"
               className="d-inline-block align-top"
-              alt="Navbar Logo"
             />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
